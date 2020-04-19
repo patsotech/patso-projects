@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F0AF-4285
+
+ Directory of C:\Users\PTRLi\Desktop\new project
+
+04/20/2020  02:58 AM    <DIR>          .
+04/20/2020  02:58 AM    <DIR>          ..
+04/20/2020  02:04 AM                22 index.html
+04/20/2020  02:58 AM                 0 test2.txt
+04/20/2020  01:54 AM               358 text1.txt
+               3 File(s)            380 bytes
+               2 Dir(s)  11,023,515,648 bytes free
